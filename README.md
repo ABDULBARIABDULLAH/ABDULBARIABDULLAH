@@ -64,9 +64,9 @@ I'm a passionate young developer who loves creating responsive websites, interac
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABDULSAMADCODEX&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ABDULLBARIABDULLAH&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULSAMADCODEX&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULBARIABDULLAH&theme=tokyonight"/>
 
 </p>
 
